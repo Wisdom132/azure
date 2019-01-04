@@ -1,0 +1,232 @@
+body {
+    overflow-x: hidden;
+}
+
+.brandtext {
+   font-family: 'Playfair Display', serif;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    font-size: 18px;
+}
+
+/*styling for contact us*/
+.imaget {
+  background:linear-gradient(rgba(0, 0, 34, 0.4) ,rgba(0, 0, 34, 0.4)), url("images/th.jpg");
+  height:680px;
+  background-size: cover;
+  background-attachment: fixed;
+}
+ul a li {
+    list-style-type:none;
+    color:white;
+    text-decoration:none;
+}
+.contact {
+   color: black !important;
+   padding-top: 250px;
+   font-family: 'Playfair Display', serif;
+}
+.head {
+    font-size: 39px;
+}
+.headpara {
+    font-size: 23px;
+}
+
+#mapContainer {
+    border: 1px solid #000022;
+    box-sizing: border-box;
+    height:500px;
+    width: auto;
+}
+.wiseq {
+    background-color: #000022;
+    padding-bottom: 150px;
+}
+.mytext {
+    margin-top:100px;
+}
+footer {
+    background-color: #010116;
+}
+
+/* style for projects */
+.projects {
+    background-image:linear-gradient(rgba(0, 0, 34, 0.4) ,rgba(0, 0, 34, 0.4)), url('images/project.jpg');
+    height:680px;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  .headertxt {
+      color:#000022;
+     font-family: 'Playfair Display', serif;
+      font-style: normal;
+      font-weight: normal;
+      line-height: normal;
+      font-size: 18px;
+      text-align: center;
+      margin-top: 200px;
+  }
+  .texttype {
+   font-family: 'Playfair Display', serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 29px;
+    font-size: 18px;
+    letter-spacing: -0.01em;
+  }
+  .flex-container {
+      display: flex;
+  }
+  .rr {
+      background-color: #000022;
+  }
+#man {
+    background-color: #000022;
+}
+.girl {
+   font-family: 'Playfair Display', serif;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    font-size: 28px;
+    
+    color: #FFFFFF;
+    padding-top:92px;
+    padding-bottom: 83px;    
+}
+.girl2 {
+   
+    color:white;
+    padding-top:92px;
+    padding-bottom: 83px;
+}
+.btn-default {
+    background-color: #07074C !important;
+    color:white;
+}
+
+
+/* //styling for home page// */
+.jumbotron {
+    background:linear-gradient(rgba(0, 0, 34, 0.4) ,rgba(0, 0, 34, 0.4)),url('images/homeback.jpg')center center ;
+    background-attachment: fixed;
+    height:680px;
+    background-size: cover;
+}
+.navbar {
+    background:linear-gradient(rgba(6, 5, 5, 0.3),rgba(6, 5, 5, 0.3)) ;
+    font-family: 'Playfair Display', serif;
+}
+
+.bat {
+   font-family: 'Playfair Display', serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 43px;
+}
+@media(max-width:425px){ 
+    .bat {
+       font-family: 'Playfair Display', serif;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 30px;
+    }
+    .jumbotron {
+        background-image:linear-gradient(rgba(0, 0, 34, 0.4) ,rgba(0, 0, 34, 0.4)),url('images/homeback.jpg');
+        height:550px;
+        background-size:cover;
+        background-position: center center;
+    }
+    .nf {
+        padding-top: 150px !important;
+    }
+    .contact {
+        color: black !important;
+        padding-top: 200px;
+        font-family: 'Playfair Display', serif;
+     }
+}
+        .serv {
+            font-family: 'Playfair Display', serif;
+        }
+        .icon {
+            font-size: 22px !important;
+        }
+        .nav-link {
+            font-family: 'Playfair Display', serif !important;
+        }
+        .hun {
+            padding-right:160px !important;
+        }
+        .bbt {
+            font-family: 'Playfair Display', serif;
+        }
+        .nf {
+            padding-top: 100px;
+        }
+
+.tryTextpro {
+     position: absolute;
+     color:rgb(241, 238, 238);
+     font-family: helvetica;
+     text-transform: uppercase;
+     transform: rotate(90deg);
+}
+
+#services {
+    background-color: #000022;
+}
+
+
+.wix {
+    transform: rotate(90deg);
+    
+    font-size: 15px;
+    margin-top:60px;
+}
+.flex-container {
+    display:flex;
+}
+.abtpg {
+    background-image:linear-gradient(rgba(0, 0, 34, 0.4) ,rgba(0, 0, 34, 0.4)),url('images/about.jpg');
+    height:680px;
+    width:auto;
+    background-attachment: fixed;
+}
+.abt {
+    margin-top: 200px;
+    font-size: 40px !important;
+    font-family: 'Playfair Display', serif;
+}
+.who {
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+}
+.abtpara {
+    font-size: 23px;
+}
+.reno {
+    font-size: 35px !important;
+}
+.test {
+    background-image: url('images/troy.png');
+    height:300;
+    width:auto;
+}
+.testtext {
+    padding-top: 70px;
+}
+.test2 {
+    background-image: url('images/troy2.jpg');
+    height:300;
+    width:auto;
+}
+
+.abttxt {
+   font-family: 'Playfair Display', serif;
+    
+    font-size: 21px;
+    letter-spacing: -0.01em;
+}
