@@ -223,7 +223,12 @@ footer {
 }
 
 #services {
-    background-color: #000022;
+    
+        background:linear-gradient(rgba(0, 0, 34, 0.4) ,rgba(0, 0, 34, 0.4)), url("images/th.jpg");
+        /* height:auto; */
+        background-size: cover;
+        background-attachment: fixed;
+    
 }
 
 
